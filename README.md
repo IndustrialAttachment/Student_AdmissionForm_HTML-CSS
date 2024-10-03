@@ -7,7 +7,7 @@ Live project demo:
 
 
 ## 🔗 Demo Link
-[![See Output](https://www.freeiconspng.com/thumbs/website-icon/website-icon-5.png)](https://industrialattachment.github.io/Student_AdmissionForm_HTML-CSS/)
+[![See Output](https://www.freeiconspng.com/thumbs/website-icon/website-icon-5.png)]([https://industrialattachment.github.io/Student_AdmissionForm_HTML-CSS/](https://industrialattachment.github.io/student-admission-form/))
 
 
 
